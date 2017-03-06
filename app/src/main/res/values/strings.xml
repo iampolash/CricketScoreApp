@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cricket Score App</string>
+
+    <!--Score Headings-->
+    <string name="tm_a_ttl">Team A Score</string>
+    <string name="tm_b_ttl">Team B Score</string>
+
+    <!--Score Headings-->
+    <string name="wkt">Wicket</string>
+    <string name="wd">Wide</string>
+    <string name="nb">No Ball</string>
+    <string name="lby">Leg By</string>
+    <string name="wkt_score">0/10</string>
+    <string name="wide_score">0</string>
+    <string name="noBall_score">0</string>
+    <string name="legBy_score">0</string>
+    <string name="score">0</string>
+
+    <!--Button Strings-->
+    <string name="wkt_btn">+1 Wkt</string>
+    <string name="wide_btn">+1 Wide</string>
+    <string name="noBall_btn">+1 No Ball</string>
+    <string name="legBy_btn">+1 Leg By</string>
+    <string name="addRunOne_btn">+1 Run</string>
+    <string name="addRunTwo_btn">+2 Run</string>
+    <string name="addRunThree_btn">+3 Run</string>
+    <string name="addRunFour_btn">+4 Run</string>
+    <string name="addRunSix_btn">+6 Run</string>
+    <string name="reset_btn">Reset</string>
+
+</resources>
